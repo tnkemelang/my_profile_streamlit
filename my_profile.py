@@ -9,7 +9,7 @@ Created on Wed Jan 29 10:53:48 2025
 import streamlit as st
 import pandas as pd
 import numpy as np
-from streamlit_cropperjs import st_cropperjs
+#from streamlit_cropperjs import st_cropperjs
 
 # Title of the app
 st.title("Researcher Profile")
